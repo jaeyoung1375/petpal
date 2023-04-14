@@ -187,7 +187,7 @@
  
          </div>
                 
-         
+         <h1>CI/CD 변경을 환영합니다</h1>
       
             <div class="row flex-box ms-80">
             <c:forEach items="${list2}" var="list">
